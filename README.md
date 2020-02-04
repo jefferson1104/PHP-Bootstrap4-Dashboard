@@ -1,8 +1,7 @@
-# dashboard-bootstrap4
+# Admin Dashboard com bootstrap v4.2
 Projeto admin dashboard com e bootstrap4
 
-# linguagens e linguagens de marcação utilizadas
-
+# Recursos utilizados
 - Html
 - Sass
 - Css
